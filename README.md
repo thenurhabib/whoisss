@@ -11,7 +11,7 @@ Whoisss is a website information gatharing Tool. You can cse it to collect infor
 `pkg install python3` <br>
 `git clone https://github.com/nurhabib1/whoisss` <br>
 `cd whoisss` <br>
-`.python3 whoisss.py` 
+`python3 whoisss.py` 
 
 
 
