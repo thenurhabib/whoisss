@@ -9,7 +9,7 @@ Whoisss is a website information gatharing Tool. You can cse it to collect infor
 `apt-get upgrade` <br>
 `pkg install git` <br>
 `pkg install python3` <br>
-`git clone https://github.com/nurhabib1/whoisss` <br>
+`git clone https://github.com/thenurhabib/whoisss` <br>
 `cd whoisss` <br>
 `python3 whoisss.py` 
 
