@@ -10,7 +10,7 @@ def authorInformation():
     """
 Name       : Whoisss
 Author     : Md. nur habib
-Email      : mdnurhabib12@Gmail.com
+Email      : thenurhabib@gmail.com
 GitHub     : github.com/thenurhabib
 HackerRank : hackerrank.com/thenurhabib      
     """
