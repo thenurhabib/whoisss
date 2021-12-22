@@ -8,7 +8,7 @@ from getpass import getpass
 def authorInformation():
      print(
     """
-Name       : Whoisss
+Name       : Whoisss - Website Information gathering Tool.
 Author     : Md. nur habib
 Email      : thenurhabib@gmail.com
 GitHub     : github.com/thenurhabib
